@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">mdt 4</string>
+    <string name="title_activity_mdt2_note_editor">mdt_2NoteEditor</string>
 </resources>
